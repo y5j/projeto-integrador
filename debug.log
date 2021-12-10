@@ -1,0 +1,16 @@
+[1014/143458.803:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema n�o pode encontrar o caminho especificado. (0x3)
+
+@media(min-width: 1024px) {
+    .div-img-carousel, .item.active {
+        overflow: hidden;
+        width: 700px;
+        height: 400px;
+        margin: 0 auto;
+    }
+
+    .carousel-inner {
+        width: 40%;
+    }
+
+
+}
